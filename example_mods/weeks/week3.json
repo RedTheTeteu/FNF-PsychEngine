@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["cblammed", "pico1", [148, 22, 83]],
+		["cphilly", "pico2", [148, 22, 83]],
+		["cpico", "pico3", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"",
+		"cbf",
+		""
+	],
+	"weekBackground": "philly",
+
+	"storyName": "PICO",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
